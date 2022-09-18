@@ -50,42 +50,50 @@ function App() {
                       <div className="cfifa-card-back">
                         <div className="card-title">CFIFA NEWS</div>
                         <div className="card-content">
-                          📣📣 CFIFA Whitelist Application | CFIFA Private Sale
-                          🔥🔥 <br />
+                          🔥 CFIFA Private Sale is Live🔥
                           <br />
-                          CFIFA is excited to announce that the Whitelist
-                          Application for its Private Sale is NOW OPEN!
+                          <br />
+                          CFIFA is excited to announce that its Private sale has
+                          started on September 17th at 1:00 P.M. (UTC) and live
+                          it now.
                           <br />
                           <a
-                            href="https://gkuxzmw0qyt.typeform.com/to/Q5tLJjsz"
+                            href="https://presale.cfifa.finance"
                             target="_blank"
                             rel="noreferrer"
                           >
-                            https://gkuxzmw0qyt.typeform.com/to/Q5tLJjsz
+                            https://presale.cfifa.finance
                           </a>
                           <br />
                           <br />
-                          Just read the instruction and follow the steps on the
-                          below link and take part in the this event. ❗️Make
-                          sure you get everything done to be a part of our
-                          CFIFA.
+                          💥Price: 1 BNB = 1,400,000 $CFIFA
+                          <br />
+                          💥Min/Max Cap: 200/500 BNB <br />
+                          💥Total Amount: 700,000,000 $CFIFA
+                          <br />
+                          💥Min Allocation: 0.2 BNB
+                          <br />
+                          💥Venue: https://presale.cfifa.finance
+                          <br />
+                          <br />
+                          Be a part of the CFIFA ecosystem. 🚀🚀 🚀🚀 🚀🚀
                         </div>
                         <div className="card-link">
+                          Read this article for more information👇
                           <a
-                            href="https://cfifa.medium.com/cfifa-whitelist-application-cfifa-private-sale-adfe0c4b9b99"
+                            href="https://cfifa.medium.com/cfifa-private-sale-instruction-8b415f09b9c"
                             target="_blank"
                             rel="noreferrer"
                           >
-                            https://cfifa.medium.com/cfifa-whitelist-application-cfifa-private-sale-adfe0c4b9b99
+                            https://cfifa.medium.com/cfifa-private-sale-instruction-8b415f09b9c
                           </a>
                         </div>
                         <div>
-                          📣📣 CFIFA Presale will start in a few days soon,
-                          please be patient and keep supporting the community
-                          🔥🔥
+                          📣📣 CFIFA public sale will start after this private
+                          sale 📣📣
                         </div>
                         <div className="card-date">
-                          Date: 7th of September 2022
+                          Date: 18th of September 2022
                         </div>
                         <div className="card-author">
                           @Updated by CFIFA & CFIFA team@
